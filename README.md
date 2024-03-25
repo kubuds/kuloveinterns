@@ -1,12 +1,13 @@
 # weloveinterns
 
-## 部门简介
+## 公司简介
 
-**PLCT实验室** 全称是程序语言与编译技术实验室。PLCT致力于成为编译技术领域的开源领导者，推进工具链及运行时系统等软件基础设施的技术革新， 具备主导开发和维护重要基础设施的技术及管理能力。与此同时，致力于培养一万名编译领域尖端人才，推动先进编译技术在国内的普及和发展。
+**Kubuds** 全称是上海苦芽科技有限公司。Kubuds是一个专注于基础软件及开放芯片生态的技术团队，围绕 RISC-V 和开源软件生态，为开发者打造能够快速进行软硬件协同创新的研发环境，包括芯片辅助设计工具、软件工具链、自动化分析工具等。
 
-PLCT实验室隶属于中国科学院软件研究所（ISCAS）[智能软件研究中心（ISRC）](https://isrc.iscas.ac.cn)，[weloveinterns](https://github.com/lazyparser/weloveinterns/) 是PLCT实验室有关实习生招募、培养、成果展示的仓库。
+每一个人都有机会释放自己的创造潜能，外推人类知识的边界。
 
-**文文新闻报社** 是 PLCT 实验室里的一个相对独立的社团，致力于为 PLCT 中的 PL 世界添砖 Java。相关介绍在[专门的文档](bunbun.md)里。
+[weloveinterns](https://github.com/kubuds/weloveinterns) 是Kubuds有关实习生招募、培养的仓库。
+
 
 ## we ❤️ interns
 
@@ -20,6 +21,5 @@ PLCT实验室隶属于中国科学院软件研究所（ISCAS）[智能软件研�
 - [实习生岗位](open-internships.md)
 - [实习生生存手册](https://github.com/lazyparser/survivial-manual-for-interns) 目前还在断断续续的撰写中，欢迎围观和贡献PR (Pull Requests)
 
-## 参考链接
-
-- PLCT Lab 维护了着自己的月刊：[PLCT开源进展](https://github.com/isrc-cas/PLCT-Weekly)。如果想来PLCT实验室，请务必提前阅读。
+## 致谢  
+[lazyparser](https://github.com/lazyparser) 提供仓库模板
