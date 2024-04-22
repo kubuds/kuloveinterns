@@ -6,14 +6,14 @@
 在投递简历之前最好对我们有更多一点了解。以下是阅读材料：
 
 - [极简项目管理](https://github.com/lazyparser/minimalist-team-leader) 是目前PLCT实验室的管理方式，实习生也在管理范围内。请先阅读。
-- [我们如何进行实习生招聘](https://github.com/lazyparser/weloveinterns/blob/master/how-do-we-interview-interns.md)
-- [我们如何对实习生进行能力评定和培养](https://github.com/lazyparser/weloveinterns/blob/master/how-do-we-rank-interns.md)
+- [我们如何进行实习生招聘](https://github.com/kubuds/kuloveinterns/blob/master/how-do-we-interview-interns.md)
+- [我们如何对实习生进行能力评定和培养](https://github.com/kubuds/kuloveinterns/blob/master/how-do-we-rank-interns.md)
 - [实习生生存手册](https://github.com/lazyparser/survivial-manual-for-interns) （目前还在撰写中，欢迎围观和贡献。）
 
 阅读之后，接下来就可以发邮件了。以下内容请认真阅读。不符合条件邮件不会收到回复。
 
 有意者请投递简历至：
-**苦芽 hr@kubuds.cn**
+**苦芽招聘 hr@kubuds.cn**
 
 邮件标题请注明：
 **岗位编号 - 姓名 - 手机号码 - 学校**
@@ -36,7 +36,7 @@
 
 技术岗位（开发、测试、助教）需要满足的：
 
-- 技术岗位默认要求能力等级达到 LV2 及以上。参见：[我们如何面试实习生](https://github.com/lazyparser/weloveinterns/blob/master/how-do-we-interview-interns.md)，[我们如何给实习生评级](https://github.com/lazyparser/weloveinterns/blob/master/how-do-we-rank-interns.md)。
+- 技术岗位默认要求能力等级达到 LV2 及以上。参见：[我们如何面试实习生](https://github.com/kubuds/kuloveinterns/blob/master/how-do-we-interview-interns.md)，[我们如何给实习生评级](https://github.com/kubuds/kuloveinterns/blob/master/how-do-we-rank-interns.md)。
 - 熟练使用 Linux 命令行，并且能够写简单的 Bash 脚本。参考 [linux 技能表](archives/capabilities/linux-checklist.md)。
 - 熟练使用 git 进行团队合作。参考 [git 技能列表](archives/capabilities/git-checklist.md)。
 - 知道如何描述 bugs/issues 以及礼貌地向其他人求助，做到尽量不浪费他人的时间，将复现 bug 需要的信息提供完整。
